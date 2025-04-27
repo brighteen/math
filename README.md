@@ -1,5 +1,5 @@
 # math
-LinearAlgebra, Probability, Statistics
+LinearAlgebra, Probability, Statistics, Optimization
 
 ```mermaid
 mindmap
